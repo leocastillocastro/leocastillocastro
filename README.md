@@ -14,10 +14,8 @@ business data every day is what got me into data engineering.
   Amazon S3 → AWS Glue (crawler + Data Catalog) → Amazon Athena (SQL).
   *Repo coming soon.*
 
-## Certifications
-- **[Google IT Automation with Python](https://www.coursera.org/account/accomplishments/specialization/4M2P5D22KAKP)**
-  — Professional Certificate, Google (2023)
-- **AWS Certified Data Engineer – Associate** — in progress
+## Currently
+- Preparing the **AWS Certified Data Engineer – Associate** certification.
 
 ## Tools
 - **AWS:** S3, Glue, Athena, IAM, SES, SNS
