@@ -6,17 +6,21 @@ I run the digital operations of Carnival, a butcher shop with an online store:
 e-commerce (WooCommerce), Google Ads and logistics. Working with that real
 business data every day is what got me into data engineering.
 
-## What I'm working on
+## Projects
+- **[Carnival Mailing](https://github.com/leocastillocastro/carnival-mailing)**:
+  self-hosted email marketing platform for Carnival's WooCommerce store.
+  TypeScript, PostgreSQL, Redis/BullMQ, Amazon SES + SNS.
 - **AWS data pipeline** with e-commerce sales data:
   Amazon S3 → AWS Glue (crawler + Data Catalog) → Amazon Athena (SQL).
   *Repo coming soon.*
-- **Self-hosted email marketing system** for Carnival's WooCommerce store,
-  built and maintained by me.
+
+## Currently
 - Preparing the **AWS Certified Data Engineer – Associate** certification.
 
 ## Tools
-- **AWS:** S3, Glue, Athena, IAM
-- **Data:** SQL
+- **AWS:** S3, Glue, Athena, IAM, SES, SNS
+- **Data:** SQL, PostgreSQL
+- **Backend:** TypeScript, Node.js, Redis/BullMQ, Docker
 - **Learning:** Python
 - **Business:** WooCommerce, Google Ads
 
