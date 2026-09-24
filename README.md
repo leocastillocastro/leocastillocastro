@@ -1,9 +1,31 @@
--  Hi, I’m @tmqcnymq 
--  I’m interested in learn, work and mountains
--  I’m currently learning python and C 
+# Hi, I'm Leonardo Castillo
 
+Agricultural engineer moving into **data engineering**. Based in Barcelona.
 
-<!---
-tmqcnymq/tmqcnymq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I run the digital operations of Carnival, a butcher shop with an online store:
+e-commerce (WooCommerce), Google Ads and logistics. Working with that real
+business data every day is what got me into data engineering.
+
+## What I'm working on
+- **AWS data pipeline** with e-commerce sales data:
+  Amazon S3 → AWS Glue (crawler + Data Catalog) → Amazon Athena (SQL).
+  *Repo coming soon.*
+- **Self-hosted email marketing system** for Carnival's WooCommerce store,
+  built and maintained by me.
+- Preparing the **AWS Certified Data Engineer – Associate** certification.
+
+## Tools
+- **AWS:** S3, Glue, Athena, IAM
+- **Data:** SQL
+- **Learning:** Python
+- **Business:** WooCommerce, Google Ads
+
+## Background
+Agricultural engineering (INACAP, Chile), with hands-on experience
+managing a strawberry operation.
+
+## Languages
+Spanish (native) · English
+
+## Outside work
+Mountains, trail running and cycling.
